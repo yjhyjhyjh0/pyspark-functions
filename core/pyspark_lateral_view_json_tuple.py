@@ -3,7 +3,7 @@ from pyspark.sql import SparkSession
 
 
 # Goal
-# Step1-Parse string type column with json schema
+# Step1-Parse json string type column with lateral view json tuple
 # Step2-Performance desire json operation on json type column
 
 
